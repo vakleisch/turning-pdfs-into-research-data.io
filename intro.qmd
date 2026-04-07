@@ -16,10 +16,10 @@ If not indicated otherwise, the contents of this course are licensed under CC BY
 
 This is an online course.
 
--   **Week 1**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is web scraping and OCR (\~45 min). Interactive Online Session (\~60 min).
--   **Week 2**: Applying last week's lessons to the example coding exercise or your own project (\~30 min). Interactive Online Session (\~60 min).
--   **Week 3**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is NLP and common data extract issues (\~30 min). Interactive Online Session (\~60 min).
--   **Week 4**: Applying last week's lessons to the example coding exercise or your own project (\~30 min). Interactive Online Session (\~60 min).
+-   **Unit 1**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is web scraping and OCR (\~45 min). Interactive Online Session (\~60 min).
+-   **Unit 2**: Applying last week’s lessons to the example coding exercise or your own project (\~30 min), watching a Code Demonstration video (\~50 min). Interactive Online Session (\~60 min).
+-   **Unit 3**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is NLP and common data extract issues (\~30 min). Interactive Online Session (\~60 min).
+-   **Unit 4**: Applying last week’s lessons to the example coding exercise or your own project (\~30 min), watching a Code Demonstration video (\~30 min). Interactive Online Session (\~60 min).
 
 ## Weekly Meetings
 

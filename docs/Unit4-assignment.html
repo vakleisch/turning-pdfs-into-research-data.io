@@ -288,8 +288,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#errors-you-might-encounter" id="toc-errors-you-might-encounter" class="nav-link active" data-scroll-target="#errors-you-might-encounter">Errors you might encounter</a></li>
+  <li><a href="#deadline-may-19-2026" id="toc-deadline-may-19-2026" class="nav-link active" data-scroll-target="#deadline-may-19-2026">Deadline: May 19, 2026</a>
+  <ul class="collapse">
+  <li><a href="#errors-you-might-encounter" id="toc-errors-you-might-encounter" class="nav-link" data-scroll-target="#errors-you-might-encounter">Errors you might encounter</a></li>
   <li><a href="#exercise" id="toc-exercise" class="nav-link" data-scroll-target="#exercise">Exercise</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -315,6 +318,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="deadline-may-19-2026" class="level2">
+<h2 class="anchored" data-anchor-id="deadline-may-19-2026">Deadline: May 19, 2026</h2>
 <p><a href="https://colab.research.google.com/drive/1tZhLAzY6wDdlOVDcdPO2uH7oWLTkKKwh?usp=sharing">Example Notebook</a></p>
 <p><strong>To copy this code and run it yourself, click the link above and navigate: “file &gt; save a copy in Drive”</strong></p>
 <section id="errors-you-might-encounter" class="level3">
@@ -331,6 +336,7 @@ ul.task-list li input[type="checkbox"] {
 <p>If you do not have a project of your own, look through the provided PDFs. The context for these PDFs is as follows. Across Bavaria, local municipalities provide websites on which can be found scans of applications for building on plots of land. Some of these documents are those ‘building plans,’ but others are supporting or unrelated documents that happened to be linked on those web pages. The task is to iterate through these PDFs and accurately record the regulations and policies by name cited in the building plans. That includes identifying when a document is not a building plan. Most important are the regulations regarding the maximum approved building height and around risk mitigation for flooding risks. Also important is the predicted frequency of major floods that occur in the area. The challenge is to see if you can engineer some prompts that effectively extract these details while minimizing false positives (claims that a certain text is present but is not) and false negatives (where regulations are mentioned, but the system doesn’t detect them). Remember that this is not a graded exercise but rather a practice session for you to experience the kinds of issues that occur in real-world examples.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

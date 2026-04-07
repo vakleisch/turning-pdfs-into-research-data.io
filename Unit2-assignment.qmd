@@ -1,4 +1,5 @@
 ## U2 Assignment {.unnumbered}
+## Deadline: April 28, 2026
 
 [Example Notebook](https://colab.research.google.com/drive/115BsrFH6wFSOzQFQqkKwsF0twA_bezSQ?usp=sharing)
 
