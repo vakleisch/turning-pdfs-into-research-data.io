@@ -1,5 +1,5 @@
 ## U4 Assignment {.unnumbered}
-## Deadline: May 19, 2026
+**Deadline: May 19, 2026**
 
 [Example Notebook](https://colab.research.google.com/drive/1tZhLAzY6wDdlOVDcdPO2uH7oWLTkKKwh?usp=sharing)
 
